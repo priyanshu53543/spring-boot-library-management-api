@@ -1,0 +1,15 @@
+# Maven build output
+target/
+
+# Keep IDE settings local to this checkout
+.idea/
+*.iml
+
+# Local credentials and environment files
+.env
+.env.*
+!.env.example
+
+# Compiled Java files and logs
+*.class
+*.log
